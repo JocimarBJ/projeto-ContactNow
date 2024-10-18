@@ -1,11 +1,14 @@
 <h1 align="center"> Projeto Disciplina: Programação Orientada a Objetos 2 </h1>
 
-### **Índice:**
+<div align="center">
+<h3>- Índice -</h3>
 
-1. [Informações](#informações)
-2. [Requisitos](#requisitos)
-3. [Contribuição](#contribuição)
-4. [Licença](#licença)
+[Informações](#informações)<br>
+[Requisitos](#requisitos)<br>
+[Contribuição](#contribuição)<br>
+[Licença](#licença)<br>
+
+</div>
 
 ## <div align="center">Informações</div>
 |📄 **Descrição**|

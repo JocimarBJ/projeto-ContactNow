@@ -2,7 +2,7 @@
 
 <div align="center">
  
-|<h3>ﾠﾠ                                          ÍNDICE                                          </h3>|
+|<h3>ﾠﾠ                                      ÍNDICE                                      </h3>|
 |-|
 | [Informações](#informações)<br> |
 | [Requisitos](#requisitos)<br> |

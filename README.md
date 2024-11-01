@@ -30,7 +30,7 @@
 
 </div>
 
-## <div align="center">Classes e Funcionalidades</div>
+## <div align="center">CLASSES E FUNCIONALIDADES</div>
 
 <div align="center">
  

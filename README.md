@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Disciplina: Programação Orientada a Objetos 2 </h1>
+<h1 align="center"> Projeto: ContactNow </h1>
 
 <div align="center">
  
@@ -14,7 +14,7 @@
 ## <div align="center">INFORMAÇÕES</div>
 |📄 **Descrição**|
 |-|
- |Um projeto desenvolvido desde o levantamento de requisitos até a criação do diagrama de classes, conexão com banco de dados e implementação de interface gráfica em java. Foi realizado durante à disciplina de P.O.O-2.|
+ |Um projeto desenvolvido na disciplina de Programação Orientada à Objetos-2, onde será demonstrado desde o levantamento de requisitos até a criação do diagrama de classes, conexão com banco de dados e implementação de interface gráfica em java.|
 
 |📌 **Propósito**|
 |-|

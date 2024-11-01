@@ -5,6 +5,7 @@
 |<h3>ﾠﾠ                                   ÍNDICE                                   </h3>|
 |-|
 | [Informações](#informações)<br> |
+| [Classes e Funcionalidades](#classes-e-funcionalidades)<br> |
 | [Requisitos](#requisitos)<br> |
 | [Contribuição](#contribuição)<br> |
 | [Licença](#licença)<br> |

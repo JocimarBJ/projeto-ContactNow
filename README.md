@@ -67,5 +67,10 @@
 
 ## <div align="center">DIAGRAMAS</div>
 
-### <div align="center">Casos de Uso</div>
+<div align="center">
 
+|Casos de Uso|
+|-|
+|<img src="https://github.com/user-attachments/assets/ae609ab1-d339-4f89-adf4-3575ccc3d096" width="800" height="700"/>|
+
+</div>

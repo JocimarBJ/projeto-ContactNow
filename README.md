@@ -25,7 +25,7 @@
 
 |🚀 Estrutura do Projeto| ®️ Logo Marca| 🛠️ Tecnologias Usadas| 💻 Linguagens| 👥 Integrantes|
 |-|-|-|-|-|
-|✅Requisitos<br>✅Casos de Uso<br>✅Diagramas de Classe<br>❌Banco de Dados<br>❌Interface Gráfica|<img src="https://github.com/user-attachments/assets/ccfe242a-6647-4620-bbb7-0b8cb04bef61" width="150" height="150"/>| [LucidChart](www.lucidchart.com)<br>[MySQL](https://www.mysql.com/)| Java<br>SQL| [Jocimar Borges Júnior](https://github.com/JocimarBJ)<br>[Gustavo Alves de Aquino](https://github.com/)<br>[Leonardo Pereira Jorge](https://github.com/)|
+|✅Requisitos<br>✅Casos de Uso<br>✅Diagramas de Classe<br>❌Banco de Dados<br>❌Interface Gráfica|<img src="https://github.com/user-attachments/assets/970aa5e1-c21b-434c-8022-1d644e487e73" width="150" height="150"/>| [LucidChart](www.lucidchart.com)<br>[MySQL](https://www.mysql.com/)| Java<br>SQL| [Jocimar Borges Júnior](https://github.com/JocimarBJ)<br>[Gustavo Alves de Aquino](https://github.com/)<br>[Leonardo Pereira Jorge](https://github.com/)|
 <br>
 
 </div>

@@ -29,6 +29,16 @@
 
 </div>
 
+## <div align="center">Classes e Funcionalidades</div>
+
+<div align="center">
+ 
+|Classes|Funcionalidades|
+|-|-|
+| Agendamento<br>Contato<br>Agenda<br>etc| Funcionalidades tal tal|
+
+</div>
+
 ## <div align="center">REQUISITOS</div>
 
 <div align="center">

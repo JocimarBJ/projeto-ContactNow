@@ -71,6 +71,6 @@
 
 |Casos de Uso|
 |-|
-|<img src="https://github.com/user-attachments/assets/ae609ab1-d339-4f89-adf4-3575ccc3d096" width="800" height="700"/>|
+|<img src="https://github.com/user-attachments/assets/ae609ab1-d339-4f89-adf4-3575ccc3d096" width="800" height="700"/><br><br>[Arquivo da Especificação de Caso de Uso](https://github.com/user-attachments/files/17594773/Especificacao.de.Requisitos.ContactNow.pdf)|
 
 </div>

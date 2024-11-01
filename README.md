@@ -7,7 +7,7 @@
 | [Informações](#informações)<br> |
 | [Classes e Funcionalidades](#classes-e-funcionalidades)<br> |
 | [Requisitos](#requisitos)<br> |
-| [Contribuição](#contribuição)<br> |
+| [Diagramas](#diagramas)<br> |
 | [Licença](#licença)<br> |
 
 </div>

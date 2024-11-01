@@ -62,6 +62,7 @@
 |RF12|O sistema deve permitir que o usuário se cadastre e faça login|Alta|
 |RF13|O sistema deve pedir E-mail, Senha para realizar o login|Alta|
 |RF14|O sistema deve alterar o histórico de contatos conforme a conta utilizada|Média|
+|RF15|O sistema deve pedir Nome, E-mail e Senha para realizar o cadastro|Alta|
 </div>
 
 <div align="center">

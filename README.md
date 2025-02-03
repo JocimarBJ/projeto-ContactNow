@@ -85,4 +85,8 @@
 |-|
 |<img src="https://github.com/user-attachments/assets/ae609ab1-d339-4f89-adf4-3575ccc3d096" width="800" height="700"/><br><br>[Arquivo da Especificação de Caso de Uso](https://github.com/user-attachments/files/17594773/Especificacao.de.Requisitos.ContactNow.pdf)|
 
+|Classes|
+|-|
+|<img src="https://github.com/user-attachments/assets/31accfe1-3950-4913-8724-25604bae9c82" width="800" height="700"/>|
+
 </div>

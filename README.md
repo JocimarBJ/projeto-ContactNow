@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto: ContactNow </h1>
+<h1 align="center"> Projeto: Petflix </h1>
 
 <div align="center">
  
@@ -70,4 +70,21 @@
 |HU07|Eu Petflix, quero um header com seções, para melhor navegabilidade.
 |HU08|Eu Petflix, quero um footer com informações de contato, para ficar de fácil acesso ao visitante.
 |HU09|Eu usuário, quero que o animal seja excluído da lista quando adotado, para não gerar duplicidade.
+</div>
+
+<div align="center">
+ 
+### Critérios de Aceite
+
+|HU|Descrição|
+|-|-|
+|HU01|O usuário deve ser capaz de realizar o login.
+|HU02|O usuário deve ser capaz de realizar todo o fluxo de cadastro.
+|HU03|O usuário deve ser capaz de realizar todo o fluxo de cadastro de animal para adoção.
+|HU04|O usuário deve ser capaz de realizar busca por animais e receber resultados.
+|HU05|O usuário deve ser capaz de aplicar filtros na busca que impactem nos resultados.
+|HU06|O usuário deve ser capaz de favoritar animais e vê-los separadamente.
+|HU07|O Petflix deve ter um layout de header compatível e funcional.
+|HU08|O Petflix deve ter um layout de footer com as informações necessárias e funcional.
+|HU09|O usuário não deve ser capaz de ver animais já adotados, evitando duplicidades.
 </div>

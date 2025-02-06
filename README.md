@@ -8,7 +8,6 @@
 | [Classes e Funcionalidades](#classes-e-funcionalidades)<br> |
 | [Requisitos](#requisitos)<br> |
 | [Diagramas](#diagramas)<br> |
-| [Licença](#licença)<br> |
 
 </div>
 
@@ -23,9 +22,9 @@
 
 <div align="center">
 
-|🚀 Estrutura do Projeto| ®️ Logo Marca| 🛠️ Tecnologias Usadas| 💻 Ferramentas| 👥 Integrantes|
+|🚀 Estrutura do Projeto| ®️ Logo Marca| 🛠️ Tecnologias Usadas| 💻 Linguagens| 👥 Integrantes|
 |-|-|-|-|-|
-|✅Requisitos<br>✅Casos de Uso<br>✅Diagramas de Classe<br>❌Banco de Dados<br>❌Interface Gráfica|<img src="https://github.com/user-attachments/assets/970aa5e1-c21b-434c-8022-1d644e487e73" width="150" height="150"/>| [LucidChart](www.lucidchart.com)<br>[PostgreeSQL](https://www.postgresql.org/download/)| Linguagem Java<br> Apache Netbeans<br>PostgreeSQL| [Jocimar Borges Júnior](https://github.com/JocimarBJ)<br>[Gustavo Alves de Aquino](https://github.com/)<br>[Leonardo Pereira Jorge](https://github.com/)|
+|✅Requisitos<br>✅Casos de Uso<br>✅Diagramas de Classe<br>✅Banco de Dados<br>✅Interface Gráfica|<img src="https://github.com/user-attachments/assets/970aa5e1-c21b-434c-8022-1d644e487e73" width="150" height="150"/>| [LucidChart](www.lucidchart.com)<br>[PostgreeSQL](https://www.postgresql.org/download/)<br> [Apache NetBeans](https://netbeans.apache.org/front/main/download/)| Linguagem Java<br> Linguagem SQL| [Jocimar Borges Júnior](https://github.com/JocimarBJ)<br>[Gustavo Alves de Aquino](https://github.com/)<br>[Leonardo Pereira Jorge](https://github.com/)|
 <br>
 
 </div>
@@ -34,9 +33,9 @@
 
 <div align="center">
  
-|Classes|Funcionalidades|
-|-|-|
-| Agendamento<br>Contato<br>Agenda<br>etc| Funcionalidades tal tal|
+|Classes|Funcionalidades|------|Formularios (JFrames)|Funcionalidades|
+|-|-|-|-|-|
+| Usuario<br>Contato<br>SessaoContato<br>SessaoUsuario<br>BancoSQL<br>InterfaceExibeUsuarioLogado| Getters e Setters de Usuario<br>Getters e Setters de Contato<br> Armazena as informações do usuário atual na sessão atual<br> Armazena as informações dos contatos de acordo com usuario logado na sessão atual<br> Código SQL para Conexão com SGDB PostgreSQL<br> Interface do método para atualização de qual sessão está logada no momento|------|FormAgenda<br>FormAlterarContato<br>FormContato<br>FormCriarContato<br>FormGerenciarContatos<br>FormPrincipalLogin<br>FormRegistrar<br>FormAlterarDadosUsuario<br>FormRecuperarSenha<br>FormTrocarConta | Tela Principal<br>Altera dados do contato<br>Apresenta as informações do Contato escolhido<br>Cadastro das informações do contato<br>Mostra todos os contatos e os gerencia<br>Faz o Login na conta cadastrada<br>Cadastro de informações do usuário<br>Altera os dados do usuário logado<br>Recupera a senha de qualquer conta cadastrada<br>Troca para outra conta cadastrada|
 
 </div>
 

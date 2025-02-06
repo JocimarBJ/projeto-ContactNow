@@ -1,22 +1,44 @@
-<h1 align="center"> Projeto: Petflix </h1>
+<h1 align="center"> Projeto: ContactNow </h1>
 
 <div align="center">
  
 |<h3>ﾠﾠ                                   ÍNDICE                                   </h3>|
 |-|
 | [Informações](#informações)<br> |
+| [Classes e Funcionalidades](#classes-e-funcionalidades)<br> |
 | [Requisitos](#requisitos)<br> |
+| [Diagramas](#diagramas)<br> |
+| [Licença](#licença)<br> |
 
 </div>
 
 ## <div align="center">INFORMAÇÕES</div>
 |📄 **Descrição**|
 |-|
- |Um projeto desenvolvido na disciplina de Desenvolvimento Ágil, onde será demonstrado a aplicação de conceitos de metodologias ágeis dentro do desenvolvimento do Petflix.|
+ |Um projeto desenvolvido na disciplina de Programação Orientada à Objetos-2, onde será demonstrado desde o levantamento de requisitos até a criação do diagrama de classes, conexão com banco de dados e implementação de interface gráfica em java.|
 
 |📌 **Propósito**|
 |-|
-|O **Petflix** é feito para trazer uma nova forma de adoção responsável e bem-estar dos animais, seu propósito principal é trazer a praticidade para esse momento tão especial que é adotar um novo melhor amigo para sua companhia diária, trazemos então dentro do Petflix de forma fácil, intuitiva e descomplicada um meio seguro e ágil de manter seu dia mais alegre com o seu novo melhor amigo. Nesse viés, é possível observar que não há certo interesse no mercado em realizar um site desse tipo, seja pelo baixo retorno financeiro ou pelas outras formas de realizar este ato.<br><br> Nós queremos manter toda essa burocracia para trás e levar realmente facilidade e alegria para o dia dos usuários do Petflix, trazendo um site inovador, eficaz e intuitivo.| 
+|A **ContactNow** foi inspirada nas agendas de contatos de smartphones comuns e no Google Calendar, buscando implementar conjuntamente as suas funcionalidades e trazendo um sistema inovador e diferenciado dos restantes. Nesse viés, é possível observar que não há certo interesse no mercado em realizar um sistema desse tipo, seja pelo baixo retorno financeiro ou por abranger um público mais casual.<br><br> Nós queremos alcançar esse público, que necessita de uma visualização e cadastro de contatos ágil, separados, organizados e de fácil acesso, e que desejam agendar seus compromissos com um contato sem a necessidade de sair do sistema. <br><br> Pensando nisso, o objetivo do sistema será para servir como uma agenda que armazene, controle e apresente os contatos ao usuário logado, além de realizar o agendamento de eventos, tudo sincronizado com seu e-mail de preferência. <br><br> Portanto, através disso poderemos solucionar os problemas dos nossos usuários, trazendo um sistema inovador, eficaz e intuitivo.| 
+
+<div align="center">
+
+|🚀 Estrutura do Projeto| ®️ Logo Marca| 🛠️ Tecnologias Usadas| 💻 Ferramentas| 👥 Integrantes|
+|-|-|-|-|-|
+|✅Requisitos<br>✅Casos de Uso<br>✅Diagramas de Classe<br>❌Banco de Dados<br>❌Interface Gráfica|<img src="https://github.com/user-attachments/assets/970aa5e1-c21b-434c-8022-1d644e487e73" width="150" height="150"/>| [LucidChart](www.lucidchart.com)<br>[PostgreeSQL](https://www.postgresql.org/download/)| Linguagem Java<br> Apache Netbeans<br>PostgreeSQL| [Jocimar Borges Júnior](https://github.com/JocimarBJ)<br>[Gustavo Alves de Aquino](https://github.com/)<br>[Leonardo Pereira Jorge](https://github.com/)|
+<br>
+
+</div>
+
+## <div align="center">CLASSES E FUNCIONALIDADES</div>
+
+<div align="center">
+ 
+|Classes|Funcionalidades|
+|-|-|
+| Agendamento<br>Contato<br>Agenda<br>etc| Funcionalidades tal tal|
+
+</div>
 
 ## <div align="center">REQUISITOS</div>
 
@@ -55,36 +77,16 @@
 |RF04|O sistema deve disponibilizar uma interface clara e intuitiva ao usuário|Alta|
 </div>
 
-<div align="center">
- 
-### Histórias de Usuário
-
-|HU|Descrição|
-|-|-|
-|HU01|Eu usuário, quero a possibilidade de realizar login, para fins de uso do site.
-|HU02|Eu usuário, quero a possibilidade de realizar cadastro, para fins de uso do site.
-|HU03|Eu usuário, quero a possibilidade de cadastrar um animal para adoção, para achar um novo lar para ele.
-|HU04|Eu usuário, quero pesquisar animal disponíveis para adoção, para dar um novo lar para ele.
-|HU05|Eu usuário, quero aplicar filtros na pesquisa, para nichar o que estou buscando.
-|HU06|Eu usuário, quero favoritar animais dentro do perfil, para poder checar periodicamente.
-|HU07|Eu Petflix, quero um header com seções, para melhor navegabilidade.
-|HU08|Eu Petflix, quero um footer com informações de contato, para ficar de fácil acesso ao visitante.
-|HU09|Eu usuário, quero que o animal seja excluído da lista quando adotado, para não gerar duplicidade.
-</div>
+## <div align="center">DIAGRAMAS</div>
 
 <div align="center">
- 
-### Critérios de Aceite
 
-|HU|Descrição|
-|-|-|
-|HU01|O usuário deve ser capaz de realizar o login.
-|HU02|O usuário deve ser capaz de realizar todo o fluxo de cadastro.
-|HU03|O usuário deve ser capaz de realizar todo o fluxo de cadastro de animal para adoção.
-|HU04|O usuário deve ser capaz de realizar busca por animais e receber resultados.
-|HU05|O usuário deve ser capaz de aplicar filtros na busca que impactem nos resultados.
-|HU06|O usuário deve ser capaz de favoritar animais e vê-los separadamente.
-|HU07|O Petflix deve ter um layout de header compatível e funcional.
-|HU08|O Petflix deve ter um layout de footer com as informações necessárias e funcional.
-|HU09|O usuário não deve ser capaz de ver animais já adotados, evitando duplicidades.
+|Casos de Uso|
+|-|
+|<img src="https://github.com/user-attachments/assets/ae609ab1-d339-4f89-adf4-3575ccc3d096" width="800" height="700"/><br><br>[Arquivo da Especificação de Caso de Uso](https://github.com/user-attachments/files/17594773/Especificacao.de.Requisitos.ContactNow.pdf)|
+
+|Classes|
+|-|
+|<img src="https://github.com/user-attachments/assets/31accfe1-3950-4913-8724-25604bae9c82" width="800" height="700"/>|
+
 </div>
